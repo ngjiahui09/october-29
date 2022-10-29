@@ -9,4 +9,4 @@ let's try this out
 * and this is number 2
 * and yet another one 
 
-![](image.jpg)
+![](images.jpeg)
